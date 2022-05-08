@@ -1,0 +1,10 @@
+name: DupeCommand
+version: '0.1'
+main: de.cure53.anton.dupecmd.DupeCommand
+api-version: 1.18
+authors: [ SuperAnton53 ]
+description: Unser Dupe Command Plugin
+commands:
+   dupe:
+      description: Dupliziere den Item in der Hand
+      usage: /dupe
