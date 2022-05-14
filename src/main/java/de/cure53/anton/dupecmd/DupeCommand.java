@@ -1,6 +1,5 @@
 package de.cure53.anton.dupecmd;
 
-import org.bukkit.Material;
 import org.bukkit.command.Command;
 import org.bukkit.command.CommandExecutor;
 import org.bukkit.command.CommandSender;
